@@ -95,7 +95,7 @@
                             </div>
                             <div class="ms-auto">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-success">Settings--success</button>
+                                    <button type="button" class="btn btn-primary">Settings--primary</button>
                                     <button type="button"
                                         class="btn btn-primary split-bg-primary dropdown-toggle dropdown-toggle-split"
                                         data-bs-toggle="dropdown"> <span class="visually-hidden">Toggle
